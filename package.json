@@ -1,0 +1,23 @@
+{
+  "name": "gulp-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmazzieri/gulp-test.git"
+  },
+  "author": "Cipriano Mazzieri",
+  "license": "Mit",
+  "bugs": {
+    "url": "https://github.com/cmazzieri/gulp-test/issues"
+  },
+  "homepage": "https://github.com/cmazzieri/gulp-test",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-minify-css": "^0.3.13"
+  }
+}
